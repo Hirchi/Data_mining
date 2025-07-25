@@ -2,17 +2,6 @@
 
 Ce projet est une implémentation de plusieurs techniques classiques de **fouille de données (Data Mining)** à travers des exercices pratiques réalisés dans le cadre d’un module universitaire. Il couvre différentes étapes du processus d’analyse des données, telles que le prétraitement, l’exploration, la classification, le clustering et l’association.
 
-## 📁 Structure du projet
-
-Le dépôt est structuré en plusieurs notebooks Jupyter et fichiers Python correspondant aux thématiques suivantes :
-
-- `Pretraitement.ipynb` : Nettoyage, transformation, normalisation et réduction de dimension.
-- `Classification.ipynb` : Implémentation de méthodes comme KNN, Naive Bayes, arbres de décision, SVM, etc.
-- `Clustering.ipynb` : K-means, DBSCAN, hiérarchique, et évaluation des clusters.
-- `Association.ipynb` : Règles d'association (Apriori), support, confiance, lift.
-- `TP_final.ipynb` : Mini-projet intégrateur regroupant plusieurs techniques sur un jeu de données réel.
-- Datasets utilisés : présents dans le dossier `datasets/` ou récupérés via `sklearn.datasets`.
-
 ## 🛠️ Technologies utilisées
 
 - Python 3.x
